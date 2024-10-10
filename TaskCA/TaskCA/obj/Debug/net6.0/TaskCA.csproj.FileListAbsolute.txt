@@ -1,0 +1,14 @@
+C:\Users\Icomp\Desktop\Tasks\TaskCA\TaskCA\bin\Debug\net6.0\TaskCA.exe
+C:\Users\Icomp\Desktop\Tasks\TaskCA\TaskCA\bin\Debug\net6.0\TaskCA.deps.json
+C:\Users\Icomp\Desktop\Tasks\TaskCA\TaskCA\bin\Debug\net6.0\TaskCA.runtimeconfig.json
+C:\Users\Icomp\Desktop\Tasks\TaskCA\TaskCA\bin\Debug\net6.0\TaskCA.dll
+C:\Users\Icomp\Desktop\Tasks\TaskCA\TaskCA\bin\Debug\net6.0\TaskCA.pdb
+C:\Users\Icomp\Desktop\Tasks\TaskCA\TaskCA\obj\Debug\net6.0\TaskCA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Icomp\Desktop\Tasks\TaskCA\TaskCA\obj\Debug\net6.0\TaskCA.AssemblyInfoInputs.cache
+C:\Users\Icomp\Desktop\Tasks\TaskCA\TaskCA\obj\Debug\net6.0\TaskCA.AssemblyInfo.cs
+C:\Users\Icomp\Desktop\Tasks\TaskCA\TaskCA\obj\Debug\net6.0\TaskCA.csproj.CoreCompileInputs.cache
+C:\Users\Icomp\Desktop\Tasks\TaskCA\TaskCA\obj\Debug\net6.0\TaskCA.dll
+C:\Users\Icomp\Desktop\Tasks\TaskCA\TaskCA\obj\Debug\net6.0\refint\TaskCA.dll
+C:\Users\Icomp\Desktop\Tasks\TaskCA\TaskCA\obj\Debug\net6.0\TaskCA.pdb
+C:\Users\Icomp\Desktop\Tasks\TaskCA\TaskCA\obj\Debug\net6.0\TaskCA.genruntimeconfig.cache
+C:\Users\Icomp\Desktop\Tasks\TaskCA\TaskCA\obj\Debug\net6.0\ref\TaskCA.dll
